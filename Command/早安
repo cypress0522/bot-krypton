@@ -1,0 +1,4 @@
+。reply set
+Match=早安
+Limit=today:@user=1;cd:@chat=10
+Deck=早上好啊{nick}~吃早饭了吗？|早安{nick}~刚睡醒嘛？
